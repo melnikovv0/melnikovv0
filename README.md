@@ -19,7 +19,7 @@ I am a 3rd-year Computer Science student at VŠB – Technical University of Ost
 
 *  Learning Backend development and how to build structured systems.
 *  Studying Database management and SQL optimization.
-*  Experimenting with Machine Learning basics through academic tasks.
+*  Developing my Bachelor's Thesis in the field of Machine Learning
 
 ---
 
