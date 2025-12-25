@@ -27,5 +27,5 @@ I am a 3rd-year Computer Science student at VŠB – Technical University of Ost
 
 * **University:** VŠB-TUO (Faculty of Computer Science)
 * **Email:** evgenii.melnikov143@gmail.com 
-* **LinkedIn:** https://www.linkedin.com/in/evgenii-melnikov-42779826b/
+* **LinkedIn:** [linkedin.com/in/evgenii-melnikov](https://www.linkedin.com/in/evgenii-melnikov-42779826b/)
 
