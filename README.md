@@ -2,7 +2,7 @@
 
 **Computer Science Student at VŠB – Technical University of Ostrava (3rd Year)**
 
-I am a junior developer driven by a desire to evolve and build efficient systems. My core focus lies in **Backend Development**, **Database Management**, and **Machine Learning**.
+I am a 3rd-year Computer Science student at VŠB – Technical University of Ostrava. I'm currently focusing on university projects and learning the fundamentals of software development.
 
 ---
 
@@ -12,25 +12,20 @@ I am a junior developer driven by a desire to evolve and build efficient systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🔭 Areas of Interest
+###  What I'm working on
 
-* 🚀 **Back-end:** Building reliable and scalable server-side logic.
-* 📊 **Databases:** Designing and optimizing relational data structures.
-* 🧠 **Machine Learning:** Analyzing data and implementing predictive models.
+*  Learning Backend development and how to build structured systems.
+*  Studying Database management and SQL optimization.
+*  Experimenting with Machine Learning basics through academic tasks.
 
 ---
 
 ### 📫 Let's Connect
 
 * **University:** VŠB-TUO (Faculty of Computer Science)
-* **Email:** [ТВОЙ_EMAIL@example.com]
-* **LinkedIn:** [linkedin.com/in/ТВОЙ_ПРОФИЛЬ]
+* **Email:** evgenii.melnikov143@gmail.com 
+* **LinkedIn:** https://www.linkedin.com/in/evgenii-melnikov-42779826b/
 
----
-
-### 📊 GitHub Activity
-![Evgenii's GitHub stats](https://github-readme-stats.vercel.app/api?username=melnikovv0&show_icons=true&theme=dark)
